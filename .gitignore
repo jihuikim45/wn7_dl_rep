@@ -3,3 +3,5 @@
 *.png
 *.jpg
 datasets/glaucoma.zip
+datasets/
+YellowLabradorLooking_new.jpg
