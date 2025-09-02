@@ -1,0 +1,5 @@
+# 데이터셋 (이미지와 압축만 무시)
+*.zip
+*.png
+*.jpg
+datasets/glaucoma.zip
