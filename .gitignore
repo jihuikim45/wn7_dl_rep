@@ -1,7 +1,13 @@
-# 데이터셋 (이미지와 압축만 무시)
-*.zip
+test
+*:Zone.Identifier
 *.png
+*.zip
+.gitignore
 *.jpg
-datasets/glaucoma.zip
-datasets/
-YellowLabradorLooking_new.jpg
+
+.env
+*.pt
+*.yaml
+*.txt
+*.csv
+*.cache
